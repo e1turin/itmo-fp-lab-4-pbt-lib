@@ -1,2 +1,6 @@
-# idris2-pbt-lib
-ITMO Functional Programming Course the 4th Lab Work
+# Лабораторная работа №4 по курсу «Функциональное программирование»
+
+Выполнил: Тюрин Иван, группа P34102
+
+Вариант: `PBT lib`
+

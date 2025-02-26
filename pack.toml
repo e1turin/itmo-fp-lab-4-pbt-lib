@@ -1,0 +1,6 @@
+[custom.all.pbt]
+type = "local"
+path = "."
+ipkg = "pbt.ipkg"
+test = "test/test.ipkg"
+
