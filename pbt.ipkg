@@ -17,6 +17,8 @@ depends = contrib
 
 -- modules to install
 modules = Pbt
+        , Gen
+        , Shrink
 
 -- main file (i.e. file to load at REPL)
 -- main =
